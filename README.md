@@ -5,16 +5,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-- [Screenshot](#screenshot)
-- [Built with](#built-with)
-- [Continued development](#continued-development)
+  - [Screenshot](#screenshot)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
 
 ### Screenshot
 
-![](./design/desktop-design.jpg,)
+![](./design/desktop-design.jpg)
 
 ### Built with
 
